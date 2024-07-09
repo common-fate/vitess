@@ -68,18 +68,18 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.5.14
 	go.etcd.io/etcd/client/v3 v3.5.14
 	go.uber.org/mock v0.2.0
-	golang.org/x/crypto v0.23.0 // indirect
+	golang.org/x/crypto v0.24.0 // indirect
 	golang.org/x/mod v0.17.0 // indirect
-	golang.org/x/net v0.25.0
+	golang.org/x/net v0.26.0
 	golang.org/x/oauth2 v0.20.0
-	golang.org/x/sys v0.20.0
-	golang.org/x/term v0.20.0
-	golang.org/x/text v0.15.0 // indirect
+	golang.org/x/sys v0.21.0
+	golang.org/x/term v0.21.0
+	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/time v0.5.0
-	golang.org/x/tools v0.21.0
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
 	google.golang.org/api v0.182.0
 	google.golang.org/genproto v0.0.0-20240528184218-531527333157 // indirect
-	google.golang.org/grpc v1.64.0
+	google.golang.org/grpc v1.64.1
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.3.0
 	google.golang.org/grpc/examples v0.0.0-20210430044426-28078834f35b
 	google.golang.org/protobuf v1.34.1
